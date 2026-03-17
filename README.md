@@ -1,17 +1,13 @@
-# Hola 👋
-## Mi nombre es Nolver Huaman
-<!--
-**Nolver1/Nolver1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nolver Huaman
 
-Here are some ideas to get you started:
+## Sobre mí
+**Entusuaste de la ciencia de datos e IA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img width="1906" height="1100" alt="image" src="https://github.com/user-attachments/assets/23ee21ad-318b-4faa-8ee2-b2827897b915" />
+## Tecnologías
+*Python*
+*HTML*
+*JavaScript*
+
+## Contacto
+- E-mail: nolver.huaman1@gmail.com
+- 
